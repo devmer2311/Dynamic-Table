@@ -9,9 +9,9 @@ The task is to create a **Dynamic Table Generator** where users can input an arr
 ## 2. Task Output Screenshot
 
 
-![Task Output Screenshot 1](./1.img)
-![Task Output Screenshot 2](./2.img)
-![Task Output Screenshot 3](./3.img)
+![Task Output Screenshot 1](./1.jpeg)
+![Task Output Screenshot 2](./2.jpeg)
+![Task Output Screenshot 3](./3.jpeg)
 
 
 ---
